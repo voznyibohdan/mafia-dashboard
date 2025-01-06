@@ -5,7 +5,7 @@ import { bitter, jetBrains } from '@/shared/fonts';
 
 export const metadata: Metadata = {
     title: 'Mafia',
-    description: 'Dashboard that will help the hosts to conduct the game',
+    description: 'Dashboard that will help the hosts to conduct the table',
     icons: {
         icon: '/favicon.svg'
     }
